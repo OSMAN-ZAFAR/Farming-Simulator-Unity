@@ -25,8 +25,8 @@ Features
 
   Demo
 
-[Play APK Demo on itch.io](https://osman-zafar.itch.io/farming-simulator-demo)
-
+[Play APK Demo on itch.io]
+(https://osman-zafar.itch.io/farming-simulator-demo)
   Author
 
 Osman Zafar  
