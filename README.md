@@ -14,7 +14,7 @@ Features
  Requirements
 
 - Unity 2021.3 or higher
-- RCC & TPC packages (optional)
+- RCC & TPC packages 
 - Android Build Support
 
  How to Run
